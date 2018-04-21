@@ -2,7 +2,7 @@
 Final Project for Udacity Data Analyst Nanodegree Inferential Statistics Module
 
 This is a project that I completed for the Udacity Data Analyst Nanodegree Inferential Statistics Module.
-I used excel and Python to do my analysis, which is reported in the attached pdf document.
+I used excel and Python to do my analysis.
 
-There is also a pdf document with the review by the Udacity team.
+There are 2 pdf documents. One with the project results, and one with the review by the Udacity team.
 
